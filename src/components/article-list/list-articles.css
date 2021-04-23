@@ -1,0 +1,9 @@
+.list-cards-content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.btn-add-article {
+    float: right;
+    margin: 20px 100px 20px 100px;
+}

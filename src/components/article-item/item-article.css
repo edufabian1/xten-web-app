@@ -1,0 +1,13 @@
+/* TODO: Quitar bordes de card */
+.card-content {
+    position: relative;
+    margin: 20px 20px 20px 20px;
+    width: 18rem;
+}
+
+.price-content {
+    position: absolute;
+    top: 87%;
+    left: 65%;
+    font-size: 30px;
+}
